@@ -8,6 +8,7 @@ plugins {
     kotlin("plugin.serialization")
 }
 
+
 android {
     namespace = "com.example.androidproject"
     compileSdk = 34
