@@ -1,5 +1,6 @@
 package com.example.androidproject;
 
+
 import dagger.hilt.internal.aggregatedroot.codegen._com_example_androidproject_MyApp;
 import dagger.hilt.internal.componenttreedeps.ComponentTreeDeps;
 import dagger.hilt.processor.internal.definecomponent.codegen._dagger_hilt_android_components_ActivityComponent;
