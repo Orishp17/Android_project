@@ -9,6 +9,7 @@ import com.example.androidproject.models.LibraryPost
 import com.example.androidproject.models.OtherUser
 import com.example.androidproject.models.User
 
+
 @Database(entities = [LibraryPost::class, User::class, OtherUser::class], version = 2)
 @TypeConverters(Converters::class)
 abstract class AppDatabase : RoomDatabase() {
