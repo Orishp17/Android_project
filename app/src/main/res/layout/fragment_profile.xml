@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
     <include
         android:id="@+id/profileSettingsLayout"
         layout="@layout/profile_settings_layout" />
