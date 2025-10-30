@@ -757,3 +757,4 @@ ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Ori\.gradle\cach
 	android:name
 		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Ori\.gradle\caches\8.10\transforms\4da8dbae6b072a779b4b6229ba8e0e48\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93
 
+
